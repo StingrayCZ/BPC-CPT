@@ -7,6 +7,8 @@
   .text-orange on white
 </div>
 
+<div class="text-blue mb-2"> .text-blue on white </div>
+
 <br/>
 <div class="text-blue mb-2">
   .text-blue on white
