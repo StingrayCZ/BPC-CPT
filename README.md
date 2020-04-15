@@ -2,7 +2,7 @@
 
 **a) Let p=31. Find q (biggest prime dividing p right).**
 
-**b) Which order h = 10 base in Z31*** ?** 
+**b) Which order h = 10 base in Z31*** **?** 
 
 **c) Knowing H and its order, find an element g = h^a of order 5.**
 
