@@ -10,7 +10,7 @@
 
 ### Example, when I know p and q.
 <p float="left">
-  <img src="/Folder/KnowP&Q_001.png" width="400" /> 
+  <img src="/Folder/KnowP&Q_002.png" width="400" /> 
 </p>
 
 ### Example, when I know p and q.**
