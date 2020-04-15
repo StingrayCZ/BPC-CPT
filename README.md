@@ -4,6 +4,7 @@
 These are <b style='color:red'>red words</b>.
 
 &#x1F34E;
+&#x1F34F;
 
 ```
 #4078c0
