@@ -11,3 +11,17 @@ rghruigh
 ! text in orange
 # text in gray
 ```
+
+```json
+   #6f42c1, $bg-purple
+```
+
+```html
+   #6f42c1, $bg-purple
+```
+```js
+   #6f42c1, $bg-purple
+```
+```css
+   #6f42c1, $bg-purple
+```
