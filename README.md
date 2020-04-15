@@ -1,7 +1,9 @@
 #f03c1
 # BPC-CPT
 
-(&#x1F34E;)
+These are <b style='color:red'>red words</b>.
+
+&#x1F34E;
 
 ```
 #4078c0
