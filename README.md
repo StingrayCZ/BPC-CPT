@@ -15,7 +15,7 @@
 
 ### Example, when I know p and q.**
 <p float="left">
-  <img src="/Folder/KnowP&G_001.png" width="400" /> 
+  <img src="/Folder/KnowP&G_002.png" width="400" /> 
 </p>
 
 ##Example, when I know p and g. (result 8)
