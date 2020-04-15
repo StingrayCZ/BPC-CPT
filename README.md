@@ -50,6 +50,7 @@
 + text in green
 ! text in orange
 # text in gray
+<div class="text-blue mb-2"> .text-blue on white </div>
 ```
 
 ```json
