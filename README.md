@@ -1,12 +1,12 @@
 # BPC-CPT
 
-** a) Let p=31. Find q (biggest prime dividing p right). **
+**a) Let p=31. Find q (biggest prime dividing p right).**
 
-**  b) Which order h = 10 base in Z31*? ** 
+**b) Which order h = 10 base in Z31*?** 
 
-## c) Knowing H and its order, find an element g = h^a of order 5.##
+**c) Knowing H and its order, find an element g = h^a of order 5.**
 
-## d) You have p = 13 (modulus prime) and q=4. Find element of g.##
+**d) You have p = 13 (modulus prime) and q=4. Find element of g.**
 
 ##Example, when I know p and q. (result ???)
   import { Component } from '@angular/core';
