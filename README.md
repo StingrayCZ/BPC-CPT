@@ -8,17 +8,17 @@
 
 **d) You have p = 13 (modulus prime) and q=4. Find element of g.**
 
-**Example, when I know p and q.**
+###Example, when I know p and q.
 <p float="left">
   <img src="/Folder/KnowP&Q_001.png" width="600" /> 
 </p>
 
-**Example, when I know p and q.**
+##Example, when I know p and q.**
 <p float="left">
   <img src="/Folder/KnowP&G_001.png" width="600" /> 
 </p>
 
-**Example, when I know p and g. (result 8)
+##Example, when I know p and g. (result 8)
 
 ##Example, when I know p and q. (result ???)
   import { Component } from '@angular/core';
