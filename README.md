@@ -13,15 +13,23 @@ rghruigh
 ```
 
 ```json
-   #6f42c1, $bg-purple
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 ```
 
 ```html
-   #6f42c1, $bg-purple
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 ```
 ```js
-   #6f42c1, $bg-purple
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 ```
 ```css
-   #6f42c1, $bg-purple
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 ```
