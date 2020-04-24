@@ -17,7 +17,7 @@ Zde si nejsem jistý s metodou výpočtu ![squareroot](http://latex.codecogs.com
 </p>
 
 ## 4th Issue - Pedersen Commitment scheme
-Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](http://latex.codecogs.com/gif.latex?O) nemusí být prvočísla? Jedná se o libovolná čísla z intervalu 1-16 (v tomto případě)?
+Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](http://latex.codecogs.com/gif.latex?O) nemusí být prvočísla? Jedná se o libovolná čísla z intervalu 1-16 (v tomto případě)? Další dotazy v obrázku.
 <p float="left">
   <img src="/Folder/Pedersen Commitment.PNG" width="700" /> 
 </p>
