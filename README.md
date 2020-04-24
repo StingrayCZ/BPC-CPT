@@ -1,5 +1,5 @@
 ## 1st Issue - Nalezeni generatoru
-Je tato netoda správná? Kdy řád grupy rozložím na prvočísla a pomocí nich testu jidnotlivé kandidáty na grupy?
+Je tato metoda nalezení geneáratorů správná? Kdy řád grupy rozložím na prvočísla a pomocí nich testuji jednotlivé kandidáty na grupy.
 <p float="left">
   <img src="/Folder/Generator proof.PNG" width="600" /> 
 </p>
