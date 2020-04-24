@@ -11,7 +11,7 @@ Je tato netoda správná? Kdy řád grupy rozložím na prvočísla a pomocí ni
 
 ## 3rd Issue - ElGamal
 <p float="left">
-  <img src="/Folder/ELGamal commitment.PNG" width="600" /> 
+  <img src="/Folder/ELGamal commitment.PNG" width="700" /> 
 </p>
 
 ## 4th Issue - Pedersen Commitment scheme
