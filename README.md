@@ -5,11 +5,13 @@ Je tato metoda nalezení geneáratorů správná? Kdy řád grupy rozložím na 
 </p>
 
 ## 2nd Issue - MOV Attack
+Opět prosím o feedback, zda je metoda správná.
 <p float="left">
   <img src="/Folder/MOV Attack.PNG" width="500" /> 
 </p>
 
 ## 3rd Issue - ElGamal
+Zde si nejsem jistý s metodou výpočetu q. Nevadí zde, že ![squareroot](http://latex.codecogs.com/gif.latex?g_%7B2%7D%3D49)
 <p float="left">
   <img src="/Folder/ELGamal commitment.PNG" width="700" /> 
 </p>
