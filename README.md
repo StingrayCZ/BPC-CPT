@@ -17,6 +17,7 @@ Zde si nejsem jistý s metodou výpočetu q. Nevadí zde, že ![squareroot](http
 </p>
 
 ## 4th Issue - Pedersen Commitment scheme
+Otázky popsány v obrázku
 <p float="left">
   <img src="/Folder/Pedersen Commitment.PNG" width="700" /> 
 </p>
