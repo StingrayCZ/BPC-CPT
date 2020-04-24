@@ -16,5 +16,5 @@ Je tato netoda správná? Kdy řád grupy rozložím na prvočísla a pomocí ni
 
 ## 4th Issue - Pedersen Commitment scheme
 <p float="left">
-  <img src="/Folder/Pedersen Commitment.PNG" width="600" /> 
+  <img src="/Folder/Pedersen Commitment.PNG" width="700" /> 
 </p>
