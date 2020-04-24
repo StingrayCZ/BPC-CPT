@@ -1,5 +1,5 @@
 ## 1st Issue - Nalezení generátoru
-Je tato metoda nalezení geneáratorů správná? Kdy řád grupy rozložím na prvočísla a pomocí nich testuji jednotlivé kandidáty na grupy.
+Řád grupy rozložím na prvočísla a pomocí nich testuji jednotlivé kandidáty na grupy. Pokud ve ani v jednoom případu **není** výsledkem 1, je kandidát považován za generátor.
 <p float="left">
   <img src="/Folder/Generator proof.PNG" width="600" /> 
 </p>
