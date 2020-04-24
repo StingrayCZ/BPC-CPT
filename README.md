@@ -6,7 +6,7 @@ Je tato netoda správná? Kdy řád grupy rozložím na prvočísla a pomocí ni
 
 ## 2nd Issue - MOV Attack
 <p float="left">
-  <img src="/Folder/MOV Attack.PNG" width="600" /> 
+  <img src="/Folder/MOV Attack.PNG" width="500" /> 
 </p>
 
 ## 3rd Issue - ElGamal
