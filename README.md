@@ -17,7 +17,7 @@ Zde si nejsem jistý s metodou výpočtu ![squareroot](http://latex.codecogs.com
 </p>
 
 ## 4th Issue - Pedersen Commitment scheme
-Otázky popsány v obrázku
+Otázky popsány v obrázku...
 <p float="left">
   <img src="/Folder/Pedersen Commitment.PNG" width="700" /> 
 </p>
