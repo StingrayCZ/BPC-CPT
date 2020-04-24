@@ -1,4 +1,4 @@
-## 1st Issue - Nalezeni generatoru
+## 1st Issue - Nalezení generátoru
 Je tato metoda nalezení geneáratorů správná? Kdy řád grupy rozložím na prvočísla a pomocí nich testuji jednotlivé kandidáty na grupy.
 <p float="left">
   <img src="/Folder/Generator proof.PNG" width="600" /> 
