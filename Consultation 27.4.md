@@ -13,6 +13,10 @@
 # Grafy, permutace, isomorfismus
 
 <p float="left">
+  <img src="/Shots 27.4./GraphsSet1.PNG" width="600" /> 
+</p>
+
+<p float="left">
   <img src="/Shots 27.4./Graphs1.PNG" width="600" /> 
 </p>
 
