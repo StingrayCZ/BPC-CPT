@@ -10,3 +10,12 @@
   <img src="/Shots 27.4./Ex2.PNG" width="600" /> 
 </p>
 
+# Grafy, permutace, isomorfismus
+
+<p float="left">
+  <img src="/Shots 27.4./Graphs1.PNG" width="600" /> 
+</p>
+
+<p float="left">
+  <img src="/Shots 27.4./Graphs2.PNG" width="600" /> 
+</p>
