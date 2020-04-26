@@ -30,6 +30,9 @@ Test ke stažení <a href="https://github.com/StingrayCZ/BPC-CPT/blob/master/Sho
 <p float="left">
   <img src="/Shots 27.4./Issue1.PNG" width="600" /> 
 </p>
+
+Zde nevím, jak se dostali ke třetí lajně v matici... Dle příkladu níže je řada stejná jako horní. Kde je zakopaný pes? 
+
 <p float="left">
   <img src="/Shots 27.4./Issue2.PNG" width="600" /> 
 </p>
