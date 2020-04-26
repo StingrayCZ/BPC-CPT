@@ -24,6 +24,13 @@
   <img src="/Shots 27.4./Graphs2.PNG" width="600" /> 
 </p>
 
-### 2. Excercise
+### Test 2019
+Test ke stažení <a href="https://github.com/StingrayCZ/BPC-CPT/blob/master/Shots%2027.4./Test%20Graphs%202019.pdf">zde.</a>
 
-* Kompletní protocol stack (v2020) ke stažení <a href="https://github.com/StingrayCZ/End-to-End-Encryption-Protocol-for-IEEE-802.15.4/blob/master/Protocol%20Stack%20v2020.zip">zde.</a>
+<p float="left">
+  <img src="/Shots 27.4./Issue1.PNG" width="600" /> 
+</p>
+<p float="left">
+  <img src="/Shots 27.4./Issue2.PNG" width="600" /> 
+</p>
+
