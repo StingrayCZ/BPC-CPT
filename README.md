@@ -26,9 +26,9 @@ Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](htt
 
 ## Schnorr protocol
 <p float="left">
-  <img src="/Shots 28.7./SchnorrA.PNG" width="700" /> 
+  <img src="/Shots 28.7./SchnorrA.PNG" width="800" /> 
 </p>
 
 <p float="left">
-  <img src="/Shots 28.7./SchnorrB.PNG" width="700" /> 
+  <img src="/Shots 28.7./SchnorrB.PNG" width="800" /> 
 </p>
