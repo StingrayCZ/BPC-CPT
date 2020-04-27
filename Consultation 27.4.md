@@ -24,6 +24,10 @@
   <img src="/Shots 27.4./Graphs2.PNG" width="600" /> 
 </p>
 
+<p float="left">
+  <img src="/Shots 27.4./GraphIsomorphism.PNG" width="600" /> 
+</p>
+
 # Test 2019 - Graphs
 Test ke stažení <a href="https://github.com/StingrayCZ/BPC-CPT/blob/master/Shots%2027.4./Test%20Graphs%202019.pdf">zde.</a>
 
