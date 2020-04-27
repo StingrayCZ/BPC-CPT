@@ -22,4 +22,13 @@ Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](htt
   <img src="/Folder/Pedersen Commitment.PNG" width="700" /> 
 </p>
 
+# Protocols
 
+## Schnorr protocol
+<p float="left">
+  <img src="/Shots 28.7./SchnorrA.PNG" width="700" /> 
+</p>
+
+<p float="left">
+  <img src="/Shots 28.7./SchnorrB.PNG" width="700" /> 
+</p>
