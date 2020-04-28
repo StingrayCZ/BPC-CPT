@@ -32,7 +32,7 @@ Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](htt
 <p float="left">
   <img src="/Shots 28.7./SchnorrB.PNG" width="800" /> 
 </p>
-
+## Schnorr protocol (complexity)
 <p float="left">
   <img src="/Shots 28.7./SchnorrC.PNG" width="800" /> 
 </p>
