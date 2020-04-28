@@ -45,5 +45,5 @@ Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](htt
 
 ## One Bit Commitment
 <p float="left">
-  <img src="/Shots 28.7./OneBitCommitment.PNG" width="500" /> 
+  <img src="/Shots 28.7./OneBitCommitment.PNG" width="800" /> 
 </p>
