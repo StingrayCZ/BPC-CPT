@@ -40,5 +40,5 @@ Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](htt
 
 ## XOR (complexity)
 <p float="left">
-  <img src="/Shots 28.7./ComplexityXOR.PNG" width="800" /> 
+  <img src="/Shots 28.7./ComplexityXOR.PNG" width="500" /> 
 </p>
