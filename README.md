@@ -37,3 +37,8 @@ Hodnoty ![squareroot](http://latex.codecogs.com/gif.latex?w) a ![squareroot](htt
 <p float="left">
   <img src="/Shots 28.7./SchnorrC.PNG" width="800" /> 
 </p>
+
+## XOR (complexity)
+<p float="left">
+  <img src="/Shots 28.7./ComplexityXOR.PNG" width="800" /> 
+</p>
