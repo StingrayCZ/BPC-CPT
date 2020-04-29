@@ -5,7 +5,7 @@
 </p>
 
 ## 2nd Issue - MOV Attack
-Opět prosím o feedback, zda je metoda správná.
+<!--- just --->
 <p float="left">
   <img src="/Folder/MOV Attack.PNG" width="500" /> 
 </p>
